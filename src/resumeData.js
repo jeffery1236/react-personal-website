@@ -98,25 +98,25 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Deep Reinforcement Learning",
+      description: "Implemented algorithms such as Deep Deterministic Policy Gradients and Double Q-learning on OpenAi Gym environments",
+      imgurl: "https://www.novatec-gmbh.de/wp-content/uploads/reinforcement_learning_loop-650x294.png",
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg",
+      name: "Image Segmentation on Penn-Fudan Pedastrain dataset",
+      description: "Image Segmentation on Penn-Fudan Pedastrain dataset",
+      imgurl: "https://www.cis.upenn.edu/~jshi/ped_html/images/PennPed00015_1.png",
     },
-    {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png",
-    },
-    {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
-    },
+    // {
+    //   name: "project3",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/project2.png",
+    // },
+    // {
+    //   name: "project4",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/phone.jpg",
+    // },
   ],
   testimonials: [
     {
